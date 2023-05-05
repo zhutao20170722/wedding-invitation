@@ -1,0 +1,24 @@
+{
+  "zouyaoji": {
+    "_id": "67d7368d-b62d-4ed0-8bb5-b7100fb4746f",
+    "heNumber": "18000000000",
+    "sheNumber": "18100000000",
+    "poster": "https://devapi.songluck.cn:5443/rich/public/wedding-invitation/photos/ZHEN2737 .jpg",
+    "background": "https://devapi.songluck.cn:5443/rich/public/wedding-invitation/photos/backS.jpg",
+    "videoUrl": "https://devapi.songluck.cn:5443/rich/public/wedding-invitation/video/aa.mp4",
+    "adminOpenId": [
+      "o2g_z5Bccke5PW_JIUCB9_LOTV48"
+    ],
+    "location": {
+      "longitude": "104.088684",
+      "latitude": "30.7638"
+    },
+    "info": {
+      "name": "Mr.Z & Miss.Q",
+      "date": "谨定于 2019年10月01日 星期二",
+      "time": "农历 九月初三 中午十一点半 举办婚礼",
+      "hotel": "席设：顺庭龙庄中一厅",
+      "detail": "地址：成都市新都区临河街与荣德路交叉口"
+    }
+  }
+}

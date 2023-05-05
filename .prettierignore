@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+dist
+coverage
+public
+
+# Ignore all HTML files:
+*.html
+tsconfig.json
