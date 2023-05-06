@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API keys and secrets
 .env
 
@@ -19,3 +20,23 @@ dist/**/*
 # Logging files
 *.log
 *.pyc
+=======
+
+# Editor directories and files
+.idea
+# .vscode
+
+# Package Manager
+node_modules
+.pnpm-debug.log*
+
+# System
+.DS_Store
+
+# Bundle
+dist
+dist-ssr
+*.local
+yarn-error.log
+.eslintcache
+>>>>>>> master

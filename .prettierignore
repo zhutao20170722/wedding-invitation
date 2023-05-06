@@ -1,9 +1,15 @@
 # Ignore artifacts:
 build
+<<<<<<< HEAD
 dist
+=======
+>>>>>>> master
 coverage
 public
 
 # Ignore all HTML files:
 *.html
+<<<<<<< HEAD
 tsconfig.json
+=======
+>>>>>>> master
